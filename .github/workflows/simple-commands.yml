@@ -8,7 +8,7 @@ jobs:
         run: echo "Hello, World!"
 
       - name: Show Date
-       run: date
+        run: date
 
       - name: List Files
         run: ls -la
